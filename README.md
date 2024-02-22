@@ -1,0 +1,1 @@
+The program will prompt the user to enter numbers until they input '-1', then it will calculate the average of the entered numbers. Finally, it will display the sum of the entered numbers and the count of numbers entered.
